@@ -1,0 +1,11 @@
+{
+    "metadata": {
+        "sensor_id": 14556,
+        "sensor_type": "cabin",
+        "truck_id": "2ca202f6-b6f6-4cfd-9434-e2349c9cfb13",
+        "temp_unit": "celcius"
+    },
+    "ts": "2022-08-10T12:34:46+00:00",
+    "temperature": 2.6,
+    "gps_location": [148.81, -31.03]
+}

@@ -1,0 +1,5 @@
+CONNECTION_STRING = 'mongodb+srv://<username>:<password>@<cluster>.mongodb.net/test?authSource=admin&replicaSet=<replica set>&retryWrites=false&readPreference=primary&ssl=true'
+DB_NAME = 'TIMESERIES'
+COLL_NAME = 'sensors_ts'
+DATE_RANGE_START = '2022-03-01'
+DATE_RANGE_END = '2022-08-31'
